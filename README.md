@@ -10,17 +10,17 @@ Sets up a Jupyter notebook environment with:
 To build:
 
 ```bash
-	docker build -t pyomo-tensorflow .
+docker build -t pyomo-tensorflow .
 ```
 
 To run a Notebook:
 
 ```bash
-	docker run -p 5000:5000 pyomo-tensorflow
+docker run -p 5000:5000 pyomo-tensorflow
 ```
 
 With file persistency:
 
 ```bash
-	docker run --rm -v ./:/Notebook -p 5000:5000 pyomo-tensorflow
+docker run --rm -v ./:/Notebook -p 5000:5000 pyomo-tensorflow
 ```
