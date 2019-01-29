@@ -2,10 +2,10 @@
 
 
 Sets up a Jupyter notebook environment with:
-	- Pyomo, numerical optimization engine using autodiff.
-	- Tensorflow, graph based computation framework, very popular for machine learning.
-	- Scikit-learn, numpy, scipy, pandas.
 
+- Pyomo, numerical optimization engine using autodiff.
+- Tensorflow, graph based computation framework, very popular for machine learning.
+- Scikit-learn, numpy, scipy, pandas.
 
 To build:
 
