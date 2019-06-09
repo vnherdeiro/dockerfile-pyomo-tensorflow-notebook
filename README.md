@@ -1,10 +1,10 @@
 # Pyomo - Tensorflow - Notebook environment
 
 
-Sets up a Jupyter notebook environment with:
+Sets up a Jupyter lab/notebook environment with:
 
-- Pyomo, numerical optimization engine using autodiff.
-- Tensorflow, graph based computation framework, very popular for machine learning.
+- Pyomo, numerical optimization engine using autodiff, shipping here with IP-OPT optimiser.
+- Tensorflow w/ Keras, graph based computation framework, very popular for machine learning.
 - Scikit-learn, numpy, scipy, pandas.
 
 To build:
